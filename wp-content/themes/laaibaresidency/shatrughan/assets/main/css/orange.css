@@ -173,13 +173,13 @@ Main Page
 }
 .box:hover{
 	border-color: #dd4b39;
-	box-shadow: 0 4px 1px rgba(247,168,27, 0.3);
-	-moz-box-shadow: 0 4px 1px rgba(247,168,27, 0.3);
-	-webkit-box-shadow: 0 4px 1px rgba(247,168,27, 0.3);
+	box-shadow: 0 4px 1px #dd4b39;
+	-moz-box-shadow: 0 4px 1px #dd4b39;
+	-webkit-box-shadow: 0 4px 1px #dd4b39;
 }
 
 .box-price{
-	background: rgba(247,168,27, 0.8);
+	background: #dd4b39;
 }
 
 .datepicker td.selected.active{
@@ -194,7 +194,7 @@ Main Page
 }
 
 #testi .testi-overlay{
-	background: rgba(247,168,27, 0.5);
+	background: #dd4b39;
 }
 
 #bx-pager .thumb-item-link:focus {
@@ -227,12 +227,12 @@ Main Page
 
 
 .box-person-overlay{
-	background: rgba(247,168,27, 0.8);
+	background: #dd4b39;
 }
 
 
 .abs-date{
-	background: rgba(247,168,27, 0.8);
+	background: #dd4b39;
 }
 
 .search-form .bootstrap-select.open .btn{
