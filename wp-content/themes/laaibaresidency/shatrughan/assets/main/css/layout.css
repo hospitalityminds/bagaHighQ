@@ -316,7 +316,7 @@ Header and Navbar
 }
 
 .main-navbar.fixed-header .logo img{
-	height: 80px;
+	height: 100px;
 	box-shadow: 0 3px 0px rgba(0, 0, 0, 0.1);
 	-moz-box-shadow: 0 3px 0px rgba(0, 0, 0, 0.1);
 	-webkit-box-shadow: 0 3px 0px rgba(0, 0, 0, 0.1);
