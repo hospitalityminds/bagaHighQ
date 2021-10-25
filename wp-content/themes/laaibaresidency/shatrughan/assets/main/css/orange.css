@@ -39,7 +39,7 @@ a:hover{
 }
 
 .btn-custom:hover, a.btn-custom:hover{
-	background-color: #FFC235 !important;
+	background-color: #dd4b39 !important;
 	color: #FFF;
 }
 
@@ -184,7 +184,7 @@ Main Page
 
 .datepicker td.selected.active{
 	background-color: #dd4b39 !important;
-	border-color: #FFC235 !important;
+	border-color: #dd4b39 !important;
 }
 
 .datepicker table tr th{
