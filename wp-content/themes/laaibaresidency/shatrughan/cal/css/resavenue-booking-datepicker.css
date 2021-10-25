@@ -79,7 +79,7 @@ table.res-calendar {
 }
 
 .res-datepicker td.day.disabled {
-	color: #eeeeee;
+	color:#000;
 }
 
 .res-datepicker td.old,
